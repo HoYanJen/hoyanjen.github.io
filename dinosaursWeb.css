@@ -1,6 +1,9 @@
+.navLogo{
+  width: 100%;
+}
+
 .dinosaurLogo{
-  weight:100%
-  font-size: 50px;
+  font-size: 40px;
   color: orangered;
   text-shadow: 0.05em 0.05em 0.05em rgb(110, 110, 110);
   font-weight: bold;
